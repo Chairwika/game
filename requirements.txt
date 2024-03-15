@@ -1,0 +1,15 @@
+# Flask framework
+Flask==2.2.2
+
+# Game library
+pygame>=2.0.0
+
+# HTTP requests
+requests[socks]
+
+# Utilities
+beautifulsoup4==4.11.1
+
+# Comments for explanation
+# This package is used for data visualization
+# matplotlib==3.5.1
